@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+button {
+    cursor: pointer;
+}
+
+.calculadora {
+    background-color: yellow;
+    padding: 10px;
+}
+
+.fila1 {
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.botonFila1 {
+    background-color: rgb(237, 186, 224);
+    border: 2px solid rgb(196, 145, 183);
+    border-radius: 5px;
+}
